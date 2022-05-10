@@ -1,0 +1,3 @@
+/workspace/cplusplus/cast/build/CMakeFiles/rebuild_cache.dir
+/workspace/cplusplus/cast/build/CMakeFiles/edit_cache.dir
+/workspace/cplusplus/cast/build/CMakeFiles/Cast.dir
