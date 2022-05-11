@@ -1,12 +1,10 @@
-1)  static_cast
+1)static_cast
 用法：static_cast <typeid> (expression)
 说明：该运算符把expression转换为typeid类型，但没有运行时类型检查来确保转换的安全性。
 用途：
-a) 用于类层次结构中基类和派生类之间指针或者引用的转换。up-casting (把派生类的指针或引用转换成基类的指针或者引用表示)是安全的；down-casting(把基类指针或引用转换成子类的指针或者引用)是不安全的。
+a)用于类层次结构中基类和派生类之间指针或者引用的转换。up-casting (把派生类的指针或引用转换成基类的指针或者引用表示)是安全的；down-casting(把基类指针或引用转换成子类的指针或者引用)是不安全的。
 b) 用于基本数据类型之间的转换，如把int转换成char，这种转换的安全性也要由开发人员来保证。
-
 c) 可以把空指针转换成目标类型的空指针(null pointer)。
-
 d) 把任何类型的表达式转换成void类型。
 注意： static_cast不能转换掉expression的const、volitale或者__unaligned属性。
 
