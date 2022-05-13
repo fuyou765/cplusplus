@@ -68,6 +68,7 @@ int main(){
        cout<<data[i]<<" ";
     }
     cout<<endl;
+    delete data;
     return 0;
 
     
