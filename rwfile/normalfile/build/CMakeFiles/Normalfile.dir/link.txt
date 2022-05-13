@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/Normalfile.dir/normalfile.cpp.o -o Normalfile 

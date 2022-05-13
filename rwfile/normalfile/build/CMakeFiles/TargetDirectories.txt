@@ -1,0 +1,3 @@
+/workspace/cplusplus/rwfile/normalfile/build/CMakeFiles/rebuild_cache.dir
+/workspace/cplusplus/rwfile/normalfile/build/CMakeFiles/edit_cache.dir
+/workspace/cplusplus/rwfile/normalfile/build/CMakeFiles/Normalfile.dir
