@@ -1,0 +1,3 @@
+/workspace/cplusplus/design_patern/producer_consumer_1/build/CMakeFiles/rebuild_cache.dir
+/workspace/cplusplus/design_patern/producer_consumer_1/build/CMakeFiles/edit_cache.dir
+/workspace/cplusplus/design_patern/producer_consumer_1/build/CMakeFiles/PC.dir

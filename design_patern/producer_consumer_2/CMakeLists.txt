@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.5)
+project(PC)
+INCLUDE_DIRECTORIES(./include)
+add_executable(PC main.cpp producer_consumer.cpp)
+target_link_libraries(PC pthread)

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/PC.dir/producer_consumer.cpp.o -o PC  -lpthread 
