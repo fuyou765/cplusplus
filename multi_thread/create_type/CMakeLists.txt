@@ -1,0 +1,4 @@
+cmake_minimum_required(VERSION 2.8)
+project(Thread_create_type)
+add_executable(Thread_create_type thread_create_type.cpp)
+target_link_libraries(Thread_create_type pthread)

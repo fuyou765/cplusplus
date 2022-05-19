@@ -1,0 +1,3 @@
+/workspace/cplusplus/multi_thread/create_type/build/CMakeFiles/rebuild_cache.dir
+/workspace/cplusplus/multi_thread/create_type/build/CMakeFiles/edit_cache.dir
+/workspace/cplusplus/multi_thread/create_type/build/CMakeFiles/Thread_create_type.dir

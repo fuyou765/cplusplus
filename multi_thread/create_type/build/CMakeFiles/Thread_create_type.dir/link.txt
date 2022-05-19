@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/Thread_create_type.dir/thread_create_type.cpp.o -o Thread_create_type  -lpthread 
