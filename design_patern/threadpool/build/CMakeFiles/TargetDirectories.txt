@@ -1,0 +1,3 @@
+/workspace/ThreadPool/build/CMakeFiles/rebuild_cache.dir
+/workspace/ThreadPool/build/CMakeFiles/edit_cache.dir
+/workspace/ThreadPool/build/CMakeFiles/thread_pool.dir
