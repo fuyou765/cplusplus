@@ -5,7 +5,7 @@ using namespace std;
 
 void fun1(int x) {
     while (x-- > 0) {
-        cout << x << endl;
+        cout <<"thread1:"<< x << endl;
     }
 }
 
@@ -13,17 +13,17 @@ class Base {
 public:
     void fun1(int x) {
         while (x-- > 0) {
-            cout << x << endl;
+            cout <<"thread4: "<< x << endl;
         }
     }
     static void fun2(int x) {
         while (x-- > 0) {
-            cout << x << endl;
+            cout <<"thread5: "<< x << endl;
         }
     }
     void operator()(int x) {
         while (x-- > 0) {
-            cout << x << endl;
+            cout <<"thread3: "<< x << endl;
         }
     }
 
@@ -32,7 +32,7 @@ public:
 int main() {
     auto fun2 = [](int x) {
         while (x-- > 0) {
-            cout << x << endl;
+            cout <<"thread2: "<< x << endl;
         }
     };
     Base b;
