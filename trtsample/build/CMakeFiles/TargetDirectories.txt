@@ -1,0 +1,3 @@
+/workspace/trtsample/build/CMakeFiles/rebuild_cache.dir
+/workspace/trtsample/build/CMakeFiles/edit_cache.dir
+/workspace/trtsample/build/CMakeFiles/model_qps.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/model_qps.dir/main.cpp.o CMakeFiles/model_qps.dir/infer_model.cpp.o CMakeFiles/model_qps.dir/model_qps.cpp.o -o model_qps   -L/usr/local/cuda/lib64  -Wl,-rpath,/usr/local/cuda/lib64 -lnvinfer -lcudart -lpthread 
